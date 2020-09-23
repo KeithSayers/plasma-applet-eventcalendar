@@ -1,0 +1,1 @@
+I have two computers, a desktop and a laptop.  Both run Kubuntu 20.04, both have Event Calendar installed, on both 'Show calendar' is set and in each of the the main.xml files 'show event calendar' is 'true'.  On the desktop the calendar line then does appear but on the laptop it does not - could anyone here suggest why, please?  
